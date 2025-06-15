@@ -12,9 +12,9 @@ A complete implementation of the classic Snake game written in pure C, featuring
 
 # Features
  # 1 Core Gameplay
-- 🐍 *Snake movement* with WASD controls  
-- 🍎  *Food spawning* with collision avoidance  
-- 💀 *Three collision types*:  
+- Snake movement with WASD controls  
+-  Food spawning with collision avoidance  
+-  Three collision types:  
   - Wall crashes  
   - Self-bites  
   - Obstacle hits  
