@@ -6,8 +6,8 @@ Overview
 A complete implementation of the classic Snake game written in pure C, featuring:  
 - Multi-level progression (increasing difficulty)  
 - Obstacles & moving hazards
-- High score system* with file persistence  
-- Colorful console UI*with keyboard controls  
+- High score system with file persistence  
+- Colorful console UI with keyboard controls  
 - Windows API for smooth rendering  
 
 # Features
@@ -21,10 +21,10 @@ A complete implementation of the classic Snake game written in pure C, featuring
 
  # 2. Progressive Difficulty 
 - Level 1: Basic snake (no obstacles)  
-- Level 2 (50+ pts)*: Static obstacles (`X`)  
-- Level 3 (100+ pts)*: Moving obstacle (bounces unpredictably)  
+- Level 2 (30 pts): Static obstacles (`X`)  
+- Level 3 (40+ pts): Moving obstacle (bounces unpredictably)  
 
-# 3. Visual & UI* 
+# 3. Visual & UI 
 Color-coded elements:  
   - Snake: Green → Cyan → Yellow (per level)  
   - Food: Red (`$`)  
@@ -49,8 +49,8 @@ Color-coded elements:
 #  Compilation & Usage
 
  **Requirements**  
-- *Windows OS*(uses `<conio.h>` and Windows API)  
-- *GCC/MinGW* or any C compiler  
+- Windows OS(uses `<conio.h>` and Windows API)  
+- GCC/MinGW or any C compiler  
 
 Build & Run
 ```bash
