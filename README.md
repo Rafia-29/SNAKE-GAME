@@ -1,6 +1,6 @@
 # SNAKE-GAME
-A SIMPLE SNAKE GAME WITH 3 LEVELS OF DIFFICULTY.
-# Snake Game in C - Console-Based Classic Arcade*  
+A SIMPLE SNAKE GAME (named SN4GI) WITH 3 LEVELS OF DIFFICULTY.
+# Snake Game in C - Console-Based Classic Arcade
 
 Overview
 A complete implementation of the classic Snake game written in pure C, featuring:  
