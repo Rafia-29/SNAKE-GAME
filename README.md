@@ -46,7 +46,7 @@ Color-coded elements:
 
 ---
 
-*🛠️ Compilation & Usage* 
+#  Compilation & Usage
 
  **Requirements**  
 - *Windows OS*(uses `<conio.h>` and Windows API)  
@@ -65,7 +65,7 @@ gcc snake_game.c -o snake_game
 | S | Move Down |  
 | D | Move Right |  
 | P | Pause Game |  
-| X*| Quit |  
+| X | Quit |  
 
 ---
 
@@ -88,6 +88,6 @@ gcc snake_game.c -o snake_game
 # 4. File I/O
    - Binary file operations (`fwrite`/`fread`)  
    - Struct serialization for high scores  
-This was all bout my project.
+
 
 
